@@ -1,0 +1,13 @@
+## Interface: 100007
+## Title: AdiBags - Battle Pet Items
+## X-Curse-Project-ID: 297298
+## Version: v1.0.12
+## Author: LownIgnitus|r aka Mihkael of Alexstrasza-US
+## Notes: Adds various Battle Pet items to AdiBags item filters.
+## X-Date: 2021/08/01
+## X-Website: https://github.com/lownignitus/AdiBags_Battle_Pet_Items
+## X-Category: Bags & Inventory
+## Dependencies: AdiBags
+
+Localization.lua
+AdiBags_Battle_Pet_Items.lua
