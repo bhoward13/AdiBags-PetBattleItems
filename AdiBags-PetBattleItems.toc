@@ -1,7 +1,7 @@
 ## Title: AdiBags - PetBattleItems
 ## Interface: 100007
 ## X-Interface: 100007
-## Version: v1.0.0
+## Version: 1.0.1
 ## Author: Mastec
 ## X-License: MIT
 ## Notes: Adds various Battle Pet items to AdiBags item filters. Based on original filter by lownignitus.
